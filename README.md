@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm CHINMAYI PUROHIT</h1>
 <h3 align="center">A passionate developer and learner from India</h3>
 
-- 🔭 I’m currently working on **app development**
+- 🔭 I’m currently working on **a research paper for prevention on deepfakes; using GAN, CNN, Resnet, Tensorflow, and Llama3**
 
-- 💬 Ask me about **c++, concepts of oops and dsa**
+- 💬 Ask me about **c++, concepts of oops, explaination of daa and dsa concepts or algorithms**
 
 - 📫 How to reach me **pchinmayim@gmail.com**
 
